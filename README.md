@@ -110,3 +110,34 @@ Disease-Prediction-System/
 ├── README.md
 ├── logistic_regression_model.pkl
 └── scaler.pkl
+## How to Run
+
+1. Open the Jupyter Notebook in Google Colab.
+2. Run the cells sequentially.
+3. Install the required libraries if necessary.
+4. Load and preprocess the dataset.
+5. Train the classification models.
+6. Evaluate and compare the models.
+7. Test the final model with new input data.
+
+## Key Learning Outcomes
+
+Through this project, I practiced:
+
+- Data preprocessing with Pandas
+- Exploratory Data Analysis
+- Data visualization
+- Binary classification
+- Train-test splitting
+- Feature scaling
+- Logistic Regression
+- Decision Tree classification
+- Model evaluation
+- Model comparison
+- Saving and reusing ML models
+
+## Disclaimer
+
+This project is developed for **educational and learning purposes only**.
+
+It is not a clinically validated system and should not be used for medical diagnosis, treatment, or real-world clinical decision-making.
