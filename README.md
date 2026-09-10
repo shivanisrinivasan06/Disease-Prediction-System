@@ -110,6 +110,7 @@ Disease-Prediction-System/
 ├── README.md
 ├── logistic_regression_model.pkl
 └── scaler.pkl
+
 ## How to Run
 
 1. Open the Jupyter Notebook in Google Colab.
